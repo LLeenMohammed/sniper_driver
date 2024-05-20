@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "869792235679",
+    "project_id": "sniper-418622",
+    "storage_bucket": "sniper-418622.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869792235679:android:6bbe924e32f9abc52de2aa",
+        "android_client_info": {
+          "package_name": "com.example.test_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpAg-hlJiYPKwzRv-tYgyj6rSI1plmO3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
